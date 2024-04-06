@@ -2,4 +2,4 @@
 
 this is my first Git Repository
 <br>
-Author - Avantika Singh
+Author - Avantika Singh (Shalu)
